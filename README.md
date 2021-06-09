@@ -14,6 +14,7 @@ Orthopaedic tissues control and protect our ability to move and interact with th
 <br/>
 2. Shape of Scaffold
 ![image](https://user-images.githubusercontent.com/85593608/121390539-7b029980-c91b-11eb-8eb7-7fe5bc719d5e.png)
+
 <br/>
 
 3. Bio-implanting Methods
