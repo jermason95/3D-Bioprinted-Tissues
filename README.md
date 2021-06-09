@@ -5,14 +5,26 @@ The purpose of this project is to conduct an academic review of the most effecti
 ### About
 Orthopaedic tissues control and protect our ability to move and interact with the world around us. Soft tissues such as cartilage, tendons, or ligaments provide some of the lubrication and absorb much of the forces to allow this interaction to occur and be sustained. As one of the most common injury types in the United States, scientists are working to develop new and innovative ways to repair these soft tissues after they are damaged or torn. The method of scaffold implantation is not new, but the traditional fabrication methods such as electrospinning or freeze drying are gradually being replaced by more controllable and precise methods such as E-jetting, fused deposition modeling, and 3D bioprinting. These methods allow for more biologically representative structures to be produced. Scientists are also currently studying the potential for cultured cells to have an impact on the ability to facilitate regrowth of orthopaedic tissues on scaffolds. Different types of cartilage, xenographic ECM, mesenchymal stem cells, differentiated somatic cells, along with many other materials are being studied in vitro and in vivo to develop new healthcare solutions for the future. Clinical trials have been undertaken to test the effects of newer scaffold manufacturing techniques, but most of the discussed methods are still in the stages of in vitro or in vivo development. There is much opportunity to develop the parameters of these methods for the future, combining the new manufacturing techniques with more knowledge of living cells to contribute to orthopaedic soft tissue healing.
 
-factors taken into consideration
-mechanical properties. shape
-![image](https://user-images.githubusercontent.com/85593608/121389467-725d9380-c91a-11eb-8db4-751cc5ee7cc5.png)
+### Factors taken into consideration:
 
-Bio implentation methods
+1. Mechanical Properties- Stress, Strain, Elasticity
+
+<br/>
+![image](https://user-images.githubusercontent.com/85593608/121390480-6b835080-c91b-11eb-8934-668bc4f5273d.png)
+
+
+2. Shape of Scaffold
+<br/>
+![image](https://user-images.githubusercontent.com/85593608/121390539-7b029980-c91b-11eb-8eb7-7fe5bc719d5e.png)
+
+
+3. Bio-implanting Methods
+<br/>
 ![image](https://user-images.githubusercontent.com/85593608/121389605-99b46080-c91a-11eb-98fc-e83eee95da5d.png)
+<br/>
 
-scafford material
+4. Scafford Material - Thermosetting, Thermoplastic
+<br/>
 ![image](https://user-images.githubusercontent.com/85593608/121389743-b6509880-c91a-11eb-8592-d0dfdf27133d.png)
 
 
