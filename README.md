@@ -45,8 +45,8 @@ https://github.com/jermason95/3D-Bioprinted-Tissues/blob/22a689e7653881d622784e1
 
 ### What I Learned
 
-***Data Analysis*** → Acedemic Database research
+***Data Analysis*** → Academic Database Research, Correlation Modeling
 
-***Medicine*** → Tissue makup, in-vitro
+***Medicine*** → Biomechanical Engineering, Tissue makup, Knee Biomechanics
 
-***Soft Skills and Critical Thinking*** → Surveying, Supply Chain, Forecasting
+***Soft Skills and Critical Thinking*** → Manufacturing (CAD, CAM, 3D Printing), Logistics
