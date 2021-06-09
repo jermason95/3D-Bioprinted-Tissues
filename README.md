@@ -25,6 +25,7 @@ Orthopaedic tissues control and protect our ability to move and interact with th
 <br/>
 
 4. Scafford Material - Thermosetting, Thermoplastic
+
 ![image](https://user-images.githubusercontent.com/85593608/121389743-b6509880-c91a-11eb-8592-d0dfdf27133d.png)
 
 
