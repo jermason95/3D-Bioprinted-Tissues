@@ -9,22 +9,19 @@ Orthopaedic tissues control and protect our ability to move and interact with th
 
 1. Mechanical Properties- Stress, Strain, Elasticity
 
-<br/>
 ![image](https://user-images.githubusercontent.com/85593608/121390480-6b835080-c91b-11eb-8934-668bc4f5273d.png)
 
-
-2. Shape of Scaffold
 <br/>
+2. Shape of Scaffold
 ![image](https://user-images.githubusercontent.com/85593608/121390539-7b029980-c91b-11eb-8eb7-7fe5bc719d5e.png)
-
+<br/>
 
 3. Bio-implanting Methods
-<br/>
+
 ![image](https://user-images.githubusercontent.com/85593608/121389605-99b46080-c91a-11eb-98fc-e83eee95da5d.png)
 <br/>
 
 4. Scafford Material - Thermosetting, Thermoplastic
-<br/>
 ![image](https://user-images.githubusercontent.com/85593608/121389743-b6509880-c91a-11eb-8592-d0dfdf27133d.png)
 
 
