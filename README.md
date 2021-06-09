@@ -12,8 +12,10 @@ Orthopaedic tissues control and protect our ability to move and interact with th
 ![image](https://user-images.githubusercontent.com/85593608/121390480-6b835080-c91b-11eb-8934-668bc4f5273d.png)
 
 <br/>
+
 2. Shape of Scaffold
-![image](https://user-images.githubusercontent.com/85593608/121390539-7b029980-c91b-11eb-8eb7-7fe5bc719d5e.png)
+
+![image](https://user-images.githubusercontent.com/85593608/121391149-0bd97500-c91c-11eb-9f9c-ceec14fe6802.png)
 
 <br/>
 
